@@ -2,8 +2,7 @@ cask "kopuz" do
   version "0.19.0"
   sha256 "6d8786040ef7b428090c5a972051ca4976d88d0e7c91aac1b10a07f0d0239c40"
 
-  url "https://github.com/Kopuz-org/kopuz/releases/download/v#{version}/Kopuz_#{version}_aarch64.dmg",
-      verified: "github.com/Kopuz-org/kopuz/"
+  url "https://github.com/Kopuz-org/kopuz/releases/download/v#{version}/Kopuz_#{version}_aarch64.dmg"
   name "Kopuz"
   desc "Music player for local libraries, Jellyfin and Subsonic servers"
   homepage "https://github.com/Kopuz-org/kopuz"
