@@ -1,6 +1,6 @@
 cask "kopuz" do
-  version "0.19.0"
-  sha256 "6d8786040ef7b428090c5a972051ca4976d88d0e7c91aac1b10a07f0d0239c40"
+  version "0.20.0"
+  sha256 "bcd2494e28b1a61e21aad846a9ee7adb72950f0a645336841888c5c5d773cb47"
 
   url "https://github.com/Kopuz-org/kopuz/releases/download/v#{version}/Kopuz_#{version}_aarch64.dmg"
   name "Kopuz"
