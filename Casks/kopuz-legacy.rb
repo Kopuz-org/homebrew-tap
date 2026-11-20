@@ -1,6 +1,6 @@
 cask "kopuz-legacy" do
-  version "1.0.0"
-  sha256 "1cd2f6fc9e8cd1c22929254508a3be4a806d8b7a6c174fe5774b5e3c04a2042a"
+  version "1.0.1"
+  sha256 "624160a47e18724f4bc480043e0da2b9c5d86355be593054308b763fd1c57d0c"
 
   url "https://github.com/Kopuz-org/kopuz/releases/download/v#{version}/Kopuz-Legacy-#{version}-aarch64.dmg"
   name "Kopuz Legacy"
